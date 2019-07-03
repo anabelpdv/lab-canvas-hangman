@@ -32,6 +32,7 @@ class Hangman {
 
   checkGameOver(){}
 
+  
   checkWinner(){}
 
   addCorrectLetter(i){
